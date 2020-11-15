@@ -1,0 +1,6 @@
+use_frameworks!
+target 'XCTestPodProject_Tests' do
+  pod 'XCTestPodProject', :path => '../'
+  
+  
+end
